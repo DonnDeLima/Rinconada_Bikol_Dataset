@@ -28,7 +28,3 @@ All collected texts are publicly available or used with permission.
 
 Please refer to the `LICENSE` file for licensing details. This dataset is provided for academic and research purposes only. Proper attribution is required when used in publications or derivative projects.
 
-## Citation
-
-If you use this dataset in your research, please cite it as follows:
-
